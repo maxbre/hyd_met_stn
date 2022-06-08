@@ -1,0 +1,24 @@
+Agenzia Regionale per la Prevenzione e Protezione Ambientale del Veneto
+Dipartimento Regionale per la Sicurezza del Territorio
+cmt@arpa.veneto.it
+
+Estrazione dati eseguita il 01/04/2022 09:52:01 (solari).
+
+Stazione: 110 Cittadella
+Sensore: Precipitazione [PREC]
+Periodo richiesto: dal 05/09/2019 al 31/03/2022 con dati orari
+
+I valori sono espressi in millimetri, arrotondati alla prima cifra decimale,
+e indicano la cumulata di precipitazione caduta che termina nell'ora indicata.
+
+Nella prima riga del file '110_Cittadella_Precipitazione_ORARI_05_09_2019_31_03_2022.csv' ci sono i nomi delle colonne separate da ';'
+codSTZ;tipoSENS;giorno;ora;valore
+La colonna 'codSTZ' indica il codice della stazione
+La colonna 'tipoSENS' indica la tipologia di sensore
+La colonna 'giorno' rappresenta la data in formato gg/mm/aaaa
+La colonna 'ora' rappresenta l'orario solare nel formato hh:mi (ore 00-23, minuti 00:59).
+La colonna 'valore' rappresenta il valore del sensore.
+Il separatore decimale usato è il punto (.)
+
+01/04/2022 09:52:02 Inizio estrazione
+01/04/2022 09:52:35 Fine estrazione
